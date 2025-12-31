@@ -12,7 +12,7 @@ let isGeneratingResponse = false;
 // ================================
 // 🔥 OpenRouter Free API CONFIG
 // ================================
-const API_KEY = "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"; // এখানে আপনার Free API key বসান
+const API_KEY = "///"; // এখানে আপনার Free API key বসান
 const API_REQUEST_URL = "https://openrouter.ai/api/v1/chat/completions";
 const FREE_MODEL = "openrouter/auto"; // Free মডেল, এটি কাজ করবে
 
